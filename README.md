@@ -16,3 +16,5 @@ This is a clone of the official NEtflix website. A short video of the movie runs
 4.Favicon
 
 ## Project Interface
+
+![Screenshot 2023-09-04 102350](https://github.com/Jigyanshu2333/Netflix_Clone/assets/110116134/0bc101ce-f221-4879-b330-8eeac956d724)
